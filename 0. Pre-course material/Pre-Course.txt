@@ -1,0 +1,17 @@
+For learning C, I can suggest this material:
+
+1.  I. Horton, "Beginning C", 5th ed., 2013 (ISBN: 9781430248811); also
+    available as an ebook through the DTU Library:
+    http://findit.dtu.dk/en/catalog/2342253805
+    This is the book we have used earlier in the DTU course 02635.
+
+2. C on-line tutorials:  use Google, or take a look at
+    +  https://www.tutorialspoint.com/cprogramming/index.htm
+    +  https://www.learn-c.org/
+
+3. There are other on-line course providers, like Coursera, Udemy, edX,
+etc, that offer courses in C or C++.  
+
+For the things like Linux command line basics, make, etc, you can
+take a look at the tutorials PDF file attached (excerpt from
+a larger book about HPC).
