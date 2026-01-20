@@ -3,7 +3,7 @@ OBJS	= main.o mandel.o writepng.o
 
 OPT	= -g -O3
 ISA	= 
-PARA	= 
+PARA	= -fopenmp
 
 PNGWRITERPATH = pngwriter
 ARCH	      = $(shell uname -p)
